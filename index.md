@@ -37,7 +37,7 @@ layout: default
 
 **World Deck:** 
 
-|Suit|Number|
+|Suit|Amount|
 |---|---|
 |8 Discord| <span class="counter" data-count="8" data-imgsrc="assets/images/suit-discord.png" ></span>|
 |6 Arcane| <span class="counter" data-count="6" data-imgsrc="assets/images/suit-arcane.png" ></span>|
