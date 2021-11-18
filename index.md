@@ -23,7 +23,7 @@ layout: default
 
 |<img src="assets/images/chancellor-portrait.jpg" class="portrait"/>|<img src="assets/images/red-portrait.png"  class="portrait"/>|<img src="assets/images/blue-portrait.png"  class="portrait"/>|
 |---|---|---|
-|**Chancellor**: <br />Alice|**Red Baron**: <br />Bob (Citizen)| **Red Baron**: <br />Carl (Exile) |
+|**Chancellor**: <br />Alice|**Red Baron**: <br />Bob (Citizen)| **Blue Cyclops**: <br />Carl (Exile) |
 | | | |
 |<img src="assets/images/yellow-portrait.png"  class="portrait"/>|<img src="assets/images/white-portrait.png" class="portrait"/>| <img src="assets/images/black-portrait.png" class="portrait"/> |
 |**Amber Sorcerer**:<br />Dee (Exile)| **White Rage**: <br /> Felix (Exile) | **Blackguard**: <br /> Gerald (Exile)  |
