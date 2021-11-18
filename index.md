@@ -3,9 +3,7 @@ title: Game State
 layout: default
 ---
 
-# The Chrysantemum Chronicle
-
-## Game state
+## The Chrysantemum Chronicle
 
 **Current oath:**
 
