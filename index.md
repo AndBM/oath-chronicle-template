@@ -3,7 +3,9 @@ title: Game State
 layout: default
 ---
 
-## Game State
+# The Chrysantemum Chronicle
+
+## Game state
 
 **Current oath:**
 
@@ -54,13 +56,13 @@ Animal Playmates, The Old Oak, Wolves, Book Burning, Wayside Inn, Wizard School.
 [Insert TTS code]
 ```
 
-## Chronicle
+## History
 
 ### Third Era of Devotion, Rule of Alice IV
 (Possible naming convention for the third Oath of Devotion game, fourth time Alice is Chancellor)
 
 ### First Era of Supremacy, Rule of Felix I
-Cloud gather, destiny awaits...
+Clouds gather, destiny awaits...
 
 ### Introduktion
 In the dimly lit room of his stronghold, a glint of dawn peeking through the window, the chancellor hesitates a moment, then presses his seal against the molten wax. He leans back with a sigh. "It is done, then. Let these three great houses rot in exile, and let there be peace once more. However brief it may be."
